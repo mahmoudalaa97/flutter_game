@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950423177628",
+    "project_id": "flutter-game-d38ee",
+    "storage_bucket": "flutter-game-d38ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950423177628:android:30f8722981ebe46de36059",
+        "android_client_info": {
+          "package_name": "com.mahmoudalaa.flutter_game_gdg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-62XusmkihM_c_kJ7icYEKokY9EYQbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

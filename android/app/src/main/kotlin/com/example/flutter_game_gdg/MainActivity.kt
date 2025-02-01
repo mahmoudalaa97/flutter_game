@@ -1,4 +1,4 @@
-package com.example.flutter_game_gdg
+package com.mahmoudalaa.flutter_game_gdg
 
 import io.flutter.embedding.android.FlutterActivity
 
